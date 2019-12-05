@@ -37,11 +37,10 @@ public class QuijoteIker {
             }
             System.out.println(tokens.nextToken());
         }
+        System.out.println("hola ☺");
         return apariciones;
     }
-    /*
-    hola, javi apesta
-    */
+    
     public static String palabra(){
         String cadena;
         
